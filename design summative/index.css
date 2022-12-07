@@ -1,0 +1,77 @@
+body {
+	background-color: rgb(228, 228, 228);
+}
+
+.opic {
+	font-size: 90px;
+	text-align: center;
+	margin-top: 300px;
+	margin-bottom: 400px;
+	font-style: italic;
+}
+
+.w3-text-grey {
+	padding: 20px;
+	border-radius: 20px;
+}
+
+.heykid {
+	margin-top: 230px;
+}
+
+.w3-text-grey {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.godmode {
+	height: 600px;
+	width: 500px;
+	border-style: groove;
+	border: 10px bold #0000;
+	border-width: 10px;
+	border-color: black;
+	border-radius: 20px;
+	margin-left: 450px;
+	margin-top: 50px;
+}
+
+.Toppeople {
+	margin-bottom: 500px;
+	background-color: rgb(207, 207, 207);
+}
+
+#toppers {
+	font-size: 60px;
+	text-align: center;
+	font-style: italic;
+	background-color: rgb(207, 207, 207);
+}
+
+
+.imgname {
+	margin-left: 70px;
+	background-color:rgb(207, 207, 207);
+}
+
+.names {
+	float: left;
+	font-size: 40px;
+	margin-left: 270px;
+}
+
+#yo {
+	margin-left: 150px;
+}
+
+#no {
+	margin-left: 170px;
+}
+
+#shit {
+	margin-left: 220px;
+}
+
+#Notes {
+	background-color: aliceblue;
+}
